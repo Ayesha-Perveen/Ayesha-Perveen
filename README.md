@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username-here" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="[https://linkedin.com/in/your-linkedin-username-here](https://www.linkedin.com/in/ayesha-perveen-06a0b228b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ayeshaperveen17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
 ---
@@ -12,7 +12,7 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  I'm a Computer Science student with a strong passion for web development and problem-solving. I thrive on turning complex ideas into elegant, user-friendly digital experiences. I'm currently channeling my skills into my team's project for the **Smart India Hackathon 2025 Finale** while actively preparing to launch my career in tech.
+  I'm a Computer Science student with a strong passion for web development and problem-solving. I thrive on turning complex ideas into elegant, user-friendly digital experiences.
 </p>
 
 ---
@@ -41,30 +41,13 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/VHDL-logo.svg" width="45" height="45" alt="VHDL" />
-        <br>VHDL
-    </td>
+    
   </tr>
 </table>
 
 ---
 
-<h2 align="center">💻 Featured Projects</h2>
-<table align="center">
-  <tr>
-    <td width="500">
-      <h3>🏆 DharmaVerse (SIH 2025 Finalist)</h3>
-      <p>A digital heritage platform designed to showcase the monasteries of Sikkim using 360° tours, AR, and an AI travel planner. Built for the Smart India Hackathon with my team, <b>CodeEsq Foxtrot</b>.</p>
-      <a href="[LINK_TO_DHARMAVERSE_REPO]" target="_blank"><b>View Repository</b></a>
-    </td>
-    <td width="500">
-      <h3>💪 BMI Calculator</h3>
-      <p>A clean and simple web app built with React to calculate Body Mass Index, showcasing my frontend and UI development skills.</p>
-      <a href="[LINK_TO_BMI_REPO]" target="_blank"><b>View Repository</b></a>
-      </td>
-  </tr>
-</table>
+
 
 ---
 
